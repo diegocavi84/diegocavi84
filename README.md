@@ -9,9 +9,7 @@ Technology passionate currently focused on **Cloud Computing & DevOps**, explori
   <img src="https://skillicons.dev/icons?i=aws" alt="AWS" title="AWS" />
   <img src="https://skillicons.dev/icons?i=docker" alt="Docker" title="Docker" />
   <img src="https://skillicons.dev/icons?i=terraform" alt="Terraform" title="Terraform" />
-  <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" title="Kubernetes" />
   <img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" title="GitHub Actions" />
-  <img src="https://skillicons.dev/icons?i=jenkins" alt="Jenkins" title="Jenkins" />
   <img src="https://skillicons.dev/icons?i=linux" alt="Linux" title="Linux" />
   <img src="https://skillicons.dev/icons?i=bash" alt="Bash" title="Bash" />
 </p>
