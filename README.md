@@ -20,7 +20,6 @@ Technology passionate currently focused on **Cloud Computing & DevOps**, explori
   <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" title="Node.js" />
   <img src="https://skillicons.dev/icons?i=flask" alt="Flask" title="Flask" />
   <img src="https://skillicons.dev/icons?i=express" alt="Express" title="Express" />
-  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" title="MongoDB" />
   <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" title="PostgreSQL" />
 </p>
 
@@ -31,6 +30,5 @@ Technology passionate currently focused on **Cloud Computing & DevOps**, explori
   <img src="https://skillicons.dev/icons?i=html" alt="HTML5" title="HTML5" />
   <img src="https://skillicons.dev/icons?i=css" alt="CSS3" title="CSS3" />
   <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" title="Tailwind CSS" />
-  <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" title="Next.js" />
 </p>
 
