@@ -33,4 +33,17 @@ Technology passionate currently focused on **Cloud Computing & DevOps**, explori
 </p>
 
 🌐 Connect With Me
-<p align="left"> <a href="https://www.linkedin.com/in/diego-castillo84"</p>
+www.linkedin.com/in/diego-castillo84
+
+💡 Open to Suggestions!
+I'm always looking to expand my knowledge and collaborate on interesting projects. Feel free to:
+
+🔄 Suggest new technologies to learn
+
+🤝 Collaborate on open source projects
+
+💬 Discuss cloud architecture and DevOps best practices
+
+🚀 Share learning resources and tutorials
+
+
